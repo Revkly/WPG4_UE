@@ -16,7 +16,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "FieldSystemPlugin",
+			"Name": "ElectraPlayer",
 			"Enabled": true
 		}
 	]
